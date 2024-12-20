@@ -35,32 +35,7 @@ Dependencies in pom.xml
 
 ---
 
-2. Application Structure
-
-src/
-└── main/
-    ├── java/
-    │   └── com.example.ecommerce/
-    │       ├── controller/
-    │       │   ├── ItemController.java
-    │       │   ├── OrderController.java
-    │       ├── model/
-    │       │   ├── Item.java
-    │       │   ├── Order.java
-    │       ├── repository/
-    │       │   ├── ItemRepository.java
-    │       │   ├── OrderRepository.java
-    │       ├── service/
-    │       │   ├── ItemService.java
-    │       │   ├── OrderService.java
-    │       ├── EcommerceApplication.java
-    └── resources/
-        ├── application.properties
-
-
----
-
-3. Code Implementation
+2. Code Implementation
 
 Application Configuration (application.properties)
 
